@@ -1,3 +1,9 @@
+//////////////////////////////////////////////////
+//                                              //
+// This script was made by my partner @th3-m0th //
+//                                              //
+//////////////////////////////////////////////////
+
 #include "DigiKeyboard.h"
 
 #define KEY_ESC     41 
